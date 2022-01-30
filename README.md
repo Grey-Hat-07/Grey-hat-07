@@ -25,6 +25,9 @@
 </a>
 <a href="https://github.com/Grey-Hat-07">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Grey-hat-07&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
-</a>
+</a><br/>
+### Github Trophies:-
+![trophy](https://github-profile-trophy.vercel.app/?username=Grey-Hat-07&theme=gruvbox)
+
 
 ### Show some ❤️ by starring some of the repositories!
