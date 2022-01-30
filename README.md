@@ -12,22 +12,25 @@
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Reactjs
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Webdev
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: React
 
+
+### Github Stats:-
 <br/>
 <a href="https://github.com/Grey-Hat-07">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grey-hat-07&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/Grey-Hat-07">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Grey-hat-07&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Grey-hat-07&show_icons=true&theme=light&line_height=27" alt="Subhamay's github stats"/>
 </a><br/>
+
 ### Github Trophies:-
-![trophy](https://github-profile-trophy.vercel.app/?username=Grey-Hat-07&theme=gruvbox)
+<a href="https://github.com/Grey-Hat-07">
+ <img align="center" src="https://github-profile-trophy.vercel.app/?username=Grey-hat-07&theme=gruvbox" alt="Subhamay's github trophy"/>
+</a>
 
 
 ### Show some ❤️ by starring some of the repositories!
