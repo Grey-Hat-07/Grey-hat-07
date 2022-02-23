@@ -11,7 +11,7 @@
 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React-redux
+- 🌱 I’m currently learning Nextjs
 - 👯 I’m looking to collaborate on Webdev
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about 
