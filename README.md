@@ -43,7 +43,8 @@
 </a>
 
 
-[![](https://visitcount.itsvg.in/api?id=Grey-Hat-07&icon=0&color=1)](https://visitcount.itsvg.in)
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 ### Show some ❤️ by starring some of the repositories!
