@@ -17,6 +17,7 @@
 - 💬 Ask me about 
 - ⚡ Fun fact: React
 
+[![](https://visitcount.itsvg.in/api?id=Grey-Hat-07&icon=0&color=1)](https://visitcount.itsvg.in)
 ### Languages and tools:-
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -40,6 +41,9 @@
 <a href="https://github.com/Grey-Hat-07">
  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Grey-hat-07&theme=gruvbox" alt="Subhamay's github trophy"/>
 </a>
+
+
+[![](https://visitcount.itsvg.in/api?id=Grey-Hat-07&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 ### Show some ❤️ by starring some of the repositories!
