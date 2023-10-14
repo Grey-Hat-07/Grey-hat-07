@@ -10,11 +10,11 @@
 </a> <br/><br/>
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m student at University of calcutta
 - 🌱 I’m currently learning Nextjs
 - 👯 I’m looking to collaborate on Webdev
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about 
+- 🤔 I’m looking for help with 
+- 💬 Ask me about anything 
 - ⚡ Fun fact: React
 
 [![](https://visitcount.itsvg.in/api?id=Grey-Hat-07&icon=0&color=1)](https://visitcount.itsvg.in)
