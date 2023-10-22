@@ -30,12 +30,20 @@
 
 ### Github Stats:-
 <br/>
+<p>
 <a href="https://github.com/Grey-Hat-07">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grey-hat-07&theme=light&hide_langs_below=1" />
-</a>
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grey-hat-07&theme=light&hide_langs_below=1" /> -->
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grey-hat-07&show_icons=true&locale=en&layout=compact" alt="grey-hat-07" /></p>
+
+
+</a></p>
 <a href="https://github.com/Grey-Hat-07">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Grey-hat-07&show_icons=true&theme=light&line_height=27" alt="Subhamay's github stats"/>
 </a><br/>
+<p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grey-hat-07&" alt="grey-hat-07" /></p>
+</p>
 
 ### Holopin badges:-
 [![@greyhat07's Holopin board](https://holopin.me/greyhat07)](https://holopin.io/@greyhat07)
